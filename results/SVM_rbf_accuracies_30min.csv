@@ -1,0 +1,6 @@
+split,accuracy,train_size,preselected_features,final_features
+0,0.75,12,180,15
+1,0.75,12,180,21
+2,0.75,12,180,19
+3,0.75,12,180,19
+4,0.75,12,180,21
