@@ -18,6 +18,7 @@ cd mrsa-predictor
 pip install -r requirements.txt
 
 ### Examples on how to use:
+use --quick for faster but less accurate results (analysis can take a long time)
 
 ##### Analyze your existing data
 python analyze_data.py --data your_data.ods
