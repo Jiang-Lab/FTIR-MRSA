@@ -13,8 +13,7 @@ A machine learning tool for predicting MRSA/MSSA from FTIR spectra with biologic
 
 ### Installation
 
-```bash
-git clone https://github.com/yourusername/mrsa-predictor.git
+git clone https://github.com/Jiang-Lab/FTIR-MRSA/
 cd mrsa-predictor
 pip install -r requirements.txt
 
