@@ -26,13 +26,13 @@ python analyze_data.py --data your_data.ods
 ##### Or use the example data
 python analyze_data.py
 
-##### Predict sample
+##### Predict sample (still needs validation)
 python predict_sample.py --sample new_spectra.csv --timepoint 0min
 
-##### Add sample to database
+##### Add sample to database (in progress)
 python add_sample.py --sample new_spectra.csv --label "MRSA_0min" --user "researcher"
 
 *Note: gets added to a temporary database untill confirmed*
 
 ## Data Formating
-use csv file
+use .csv or .ods file
